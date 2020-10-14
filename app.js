@@ -1,2 +1,4 @@
-let teamName = "James and Blake";
-console.log(teamName);
+app.js
+let myTeam ="Blake and James"
+
+console.log(myTeam)
